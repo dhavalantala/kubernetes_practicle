@@ -1,2 +1,2 @@
-# kubernetes_practicle
+# Kubernetes Practice
 practice of kubernetes
